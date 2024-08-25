@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "free-chatgpt-3.5-turbo-api": "^1.0.2"
+  }
+}
